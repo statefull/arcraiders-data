@@ -148,5 +148,12 @@
       "zh-TW": "山之星"
     },
     "image": "https://cdn.arctracker.io/maps/stella_montis_lower.png"
+  },
+  {
+    "id": "riven_tides",
+    "name": {
+      "en": "Riven Tides"
+    },
+    "image": "images/maps/legacy/riven_tides.png"
   }
 ]
